@@ -1,4 +1,4 @@
-## How do I approach designing software? How do I approach developing programs?How can computer science help me in reaching my goals?
+## How do I approach designing software? How do I approach developing programs? How can computer science help me in reaching my goals?
 
 In any computer project, having a holistic approach and working without bias is essential to the success of the final output. I started this project by brainstorming many of the details before even beginning, and tried to envision 
 from the start what simplifications would need to be made to accomplish the scene. Despite much planning, there were still road blocks, but I overcame them through perseverence and consulting documentation on the libraries being used.
